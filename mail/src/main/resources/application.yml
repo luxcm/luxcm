@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 2926563472@qq.com
+    password: zixia.1991
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
